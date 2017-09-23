@@ -3,7 +3,7 @@
 # 
 # Code arduino : 
 # Les fichiers .ino .cpp .h sont a placer dans un repertoire "Simulateur_Aube"
-# Une fois le .ino ouvert, ajouter a l'environment Arduino les librairies via le gestionnaire : 
+# Une fois le .ino ouvert, ajouter a l'environnement Arduino les librairies via le gestionnaire : 
 #       - "Adafruit NeoMatrix" 1.1.2
 #       - "Wire" 1.0.0
 #       - "EEPROM" 2.0.0
